@@ -1,4 +1,4 @@
-div{
+.topcontainer{
     
     background-color: #E4F9F5;
 }
@@ -8,3 +8,29 @@ body{
 h1{
     margin: 0;
 }
+.container1{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    margin: 0;
+    border: 10px solid;
+    border-color: aqua;
+    padding: 20px;
+}
+.containermiddle{
+    margin:0px;
+    margin-left: 260px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(78, 78, 138);
+    border: 20px solid;
+}
+.containerbottom{
+    margin:0px;
+    margin-left: 500px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(138, 97, 177);
+    border: 10px solid;
+}
+
