@@ -12,29 +12,26 @@ p{
 font-family: 'Dancing Script', cursive;
 font-size: 20px;
 }
-/* .container1{
+.container1{
     height: 200px;
     width: 200px;
     background-color: aquamarine;
-    margin: 0;
-    border: 10px solid;
-    border-color: aqua;
-    padding: 20px;
+    position:relative;
 }
+    
 .containermiddle{
-    margin:0px;
-    margin-left: 260px;
     height: 200px;
     width: 200px;
     background-color: rgb(78, 78, 138);
-    border: 20px solid;
+    position: absolute;
+    left: 200px;
 }
 .containerbottom{
-    margin:0px;
-    margin-left: 500px;
     height: 200px;
     width: 200px;
     background-color: rgb(138, 97, 177);
-    border: 10px solid;
+    position:absolute;
+    top: 912px;
+    left: 400;
 }
- */
+
