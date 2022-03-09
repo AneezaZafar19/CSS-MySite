@@ -34,16 +34,26 @@ font-size: 20px;
     height: 300px;
 }
 .skill{
-    width: 25%;
-    /* height: 300px; */
+    width: 30%;
+    height: 35%;
+    float: left;
+    margin-right: 30px;
 }
 .wings{
-    width: 25%;
-    /* height: 300px; */
+    width: 30%;
+    height: 35%;
+    float: right;
+    margin-left: 30px;
 }
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 2;
+}
+.skillDes{
+    clear: left;
+}
+.wingsDes{
+    clear: right;
 }
