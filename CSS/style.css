@@ -1,37 +1,49 @@
 .topcontainer{
     
     background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
 }
 body{
     margin: 0px;
+    text-align: center;
+    /* background-color: #E4F9F5; */
 }
 h1{
     margin: 0;
+}
+h2{
+    color:#6fecd5;
 }
 p{
 font-family: 'Dancing Script', cursive;
 font-size: 20px;
 }
-.container1{
-    height: 200px;
-    width: 200px;
-    background-color: aquamarine;
-    position:relative;
-}
-    
-.containermiddle{
-    height: 200px;
-    width: 200px;
-    background-color: rgb(78, 78, 138);
+.cloud1{
     position: absolute;
-    left: 200px;
+    right: 450px;
+    top: 65px;
+    
 }
-.containerbottom{
-    height: 200px;
-    width: 200px;
-    background-color: rgb(138, 97, 177);
-    position:absolute;
-    top: 912px;
-    left: 400;
+.cloud2{
+    position: absolute;
+   
 }
-
+.female{
+    width: 300px;
+    height: 300px;
+}
+.skill{
+    width: 25%;
+    /* height: 300px; */
+}
+.wings{
+    width: 25%;
+    /* height: 300px; */
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
